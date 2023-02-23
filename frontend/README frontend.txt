@@ -1,0 +1,1 @@
+Aqui será criada toda a estrutura frontend do projeto.
